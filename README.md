@@ -307,3 +307,4 @@ MIT (to be confirmed)
 ---
 
 *Making agent coordination transparent, interruptible, and collaborative.*
+
